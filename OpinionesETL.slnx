@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="OpinionesETL.ApiMock/OpinionesETL.ApiMock.csproj" />
+  <Project Path="OpinionesETL.Datos/OpinionesETL.Datos.csproj" />
+  <Project Path="OpinionesETL.Entidades/OpinionesETL.Entidades.csproj" />
+  <Project Path="OpinionesETL.Negocio/OpinionesETL.Negocio.csproj" />
+  <Project Path="OpinionesETL.Worker/OpinionesETL.Worker.csproj" />
+</Solution>
